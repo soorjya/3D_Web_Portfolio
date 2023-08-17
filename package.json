@@ -21,6 +21,7 @@
     "react-tilt": "^0.1.4",
     "react-vertical-timeline-component": "^3.6.0",
     "styles": "^0.2.1",
+    "tailwind": "^4.0.0",
     "three": "^0.149.0"
   },
   "devDependencies": {
